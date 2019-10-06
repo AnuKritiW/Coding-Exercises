@@ -18,7 +18,9 @@ Return 4.
 ```
 
 ![rainwater_empty](rainwater_empty.png)
+
 The above image represents the elevation map `[[1,4,3,1,3,2],[3,2,1,3,2,4],[2,3,3,2,3,1]]` before the rain.
 
 ![rainwater_fill](rainwater_fill.png)
+
 After the rain, water is trapped between the blocks. The total volume of water trapped is 4.
